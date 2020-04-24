@@ -35,7 +35,7 @@ spec:
   resetValues: true
   chart:
     git: git://github.com/databiosphere/clinvar-ingest.git
-    ref: master
+    ref: DSPDC-950
     path: orchestration
   values:
     gcs:
